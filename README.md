@@ -1,8 +1,8 @@
 ###  Hi there 😄👋⚡
 
-### Welcome to my Profile!!:P
+## Welcome to my Profile!!
 
-#### My name is Ivan Despo i´am Java Programmer. 
+## My name is Ivan Despo i´am Java Programmer. 
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 
