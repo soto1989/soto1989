@@ -4,7 +4,7 @@
 
 ### My name is Ivan Despo i´am Java Programmer. ###
 
-![image](https://user-images.githubusercontent.com/69522674/124929904-3da33180-dfd7-11eb-83be-79c4d0911f60.png)![image](https://user-images.githubusercontent.com/69522674/124943639-0d619000-dfe3-11eb-8eb8-1774b15a22fd.png)
+![image](https://user-images.githubusercontent.com/69522674/124947135-f7090380-dfe5-11eb-8b13-1fb87b0bfe12.png)
 
 
  🔭 I’m currently working on ...
