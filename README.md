@@ -1,6 +1,4 @@
-###  Hi there 😄👋⚡
-
-### Welcome to my Profile!!
+### Welcome to my Profile!! 😄👋⚡
 
 ### My name is Ivan Despo i´am Java Programmer. 
 
